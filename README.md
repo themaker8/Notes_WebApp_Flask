@@ -1,9 +1,7 @@
 # notes_Flask
-I am going to make an website using Flask with all functions like login, database and many more
-It is very exciting we will also deploy it.
+Created a website using Flask with all the functionalities like login, writing, editing and also created database to store the notes.
+It was a very exciting project for me.
+Deployed the website on heroku.
 
-Add the template folder in website 
-I have not add the static folder I will add it in two to three days.
-
-link:https://notes-talhapython.herokuapp.com/login?next=%2F
+Link:https://notes-talhapython.herokuapp.com/login?next=%2F
 
